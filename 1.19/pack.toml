@@ -1,0 +1,16 @@
+name = "Fabric Modpack 1.19"
+author = "Laen111"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "8bc8fac8e56c407db10f8360f54e66757bdcdc001190388ec39ab593ed6537d5"
+
+[versions]
+fabric = "0.14.7"
+minecraft = "1.19"
+
+[options]
+acceptable-game-versions = ["1.19"]
