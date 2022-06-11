@@ -1,8 +1,33 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/animatica.pw.toml"
+hash = "139cd6adb184c22de6662545eee84a3acb5d1da2a606d31da977b23bbb330b21"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "af1eb4731779edc72e1e1cb1664dd74328e0edb1da05805a0a694b10c48d010b"
+metafile = true
+
+[[files]]
+file = "mods/capes.pw.toml"
+hash = "e6b27f70eea3cce852fb34713da1548c93c57c4327a797375ee50d7a3d6221c5"
+metafile = true
+
+[[files]]
+file = "mods/cem.pw.toml"
+hash = "727c319290b015a46f54f379fdb32b1a8eeb649c85bb7409fe3b9ffd3ebe5d22"
+metafile = true
+
+[[files]]
+file = "mods/cit-resewn.pw.toml"
+hash = "e05bd2aa1eb88048b3cbe0845772453fab4e1b49f8ec19f192935d782f65939e"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "749bf88d67ff9ddf272dc48d82402dd61ea2812238dfca4feb1fd78440675456"
 metafile = true
 
 [[files]]
@@ -31,6 +56,11 @@ hash = "5f7e8ec1787dc7e2c8556596c2ba53c0dae9828bf1a2d9c6a1f8b8f9ba41dfb7"
 metafile = true
 
 [[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "18dd92e3352ea0fdcfe1a116ffe661ec1a2de1ffe58678260e125d04cbfdfaf6"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "1d87f8c04eeed21a9544cfad7f64afee6de58b5249a70b0367ba8522273a4816"
 metafile = true
@@ -48,6 +78,16 @@ metafile = true
 [[files]]
 file = "mods/ksyxis.pw.toml"
 hash = "2ea587bc28af997f2b93de69af32b8ba0120ce8a2c0e95624a0c55051eb25041"
+metafile = true
+
+[[files]]
+file = "mods/lambdabettergrass.pw.toml"
+hash = "01f79a7fb966690009a42f285e779bac8f7958df56240494e4d3d7d862332c2d"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "8fb914c75a06a677721dd1fc880606d790886be9e0b392820dcecb9bb56e0786"
 metafile = true
 
 [[files]]
@@ -71,6 +111,11 @@ hash = "fc3e78eb9cb93282c6f62291d6390c950c4eb2ace7e25b83382b5f4b43cd969b"
 metafile = true
 
 [[files]]
+file = "mods/optigui.pw.toml"
+hash = "6abb2071e06ebda2ee6ceee2a0a469e71d04934069dcd351ed13ccba8b1e4ef7"
+metafile = true
+
+[[files]]
 file = "mods/puzzle.pw.toml"
 hash = "8cc917a1ec48b6aa8074cfe16ba2bbd3b9c9fa9c4a4dde7214fe25d8a492ed3d"
 metafile = true
@@ -88,4 +133,9 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "0212996355de904aa968661624fd9230d1b31d85b201b9ab01bb9e94ac0fe73c"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
+hash = "9269cc9d61c5a6617f66fd711b58abffdc01e2af37bceb6c4264f8405f6da237"
 metafile = true
