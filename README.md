@@ -35,7 +35,6 @@ The mods I've included to optimize and approximate vanilla:
 * Lithium
 * Memory Leak Fix
 * Mod Menu
-* More Culling
 * No Fade
 * Not Enough Crashes
 * OptiGUI
