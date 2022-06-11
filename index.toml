@@ -42,12 +42,12 @@ metafile = true
 
 [[files]]
 file = "mods/cem.pw.toml"
-hash = "727c319290b015a46f54f379fdb32b1a8eeb649c85bb7409fe3b9ffd3ebe5d22"
+hash = "753859b58aa7a674785b3ec5a8080c2142209a50185cc3dd5ab90c7c6a38f5ee"
 metafile = true
 
 [[files]]
 file = "mods/cit-resewn.pw.toml"
-hash = "e05bd2aa1eb88048b3cbe0845772453fab4e1b49f8ec19f192935d782f65939e"
+hash = "d2bb03cee21d84e8e72fccc06cc8afbd6760674a7b8629a3fcba98e24503008e"
 metafile = true
 
 [[files]]
