@@ -6,8 +6,18 @@ hash = "af1eb4731779edc72e1e1cb1664dd74328e0edb1da05805a0a694b10c48d010b"
 metafile = true
 
 [[files]]
+file = "mods/cull-less-leaves.pw.toml"
+hash = "cb14cb30c723d1ed83f1d612b61b12134ea3a39fcff3ae02c2aedc2c1aa12a67"
+metafile = true
+
+[[files]]
 file = "mods/debugify.pw.toml"
 hash = "2e6483d2faf2f9cd4e618d192f0d1516a33a306f76fe3cd1311f691e4138f9c6"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "ffc1f6d147394bfeb65b2fb9a78ca7d3365cbf5192c31af1312bc899190e4e34"
 metafile = true
 
 [[files]]
@@ -58,6 +68,11 @@ metafile = true
 [[files]]
 file = "mods/moreculling.pw.toml"
 hash = "fc3e78eb9cb93282c6f62291d6390c950c4eb2ace7e25b83382b5f4b43cd969b"
+metafile = true
+
+[[files]]
+file = "mods/puzzle.pw.toml"
+hash = "8cc917a1ec48b6aa8074cfe16ba2bbd3b9c9fa9c4a4dde7214fe25d8a492ed3d"
 metafile = true
 
 [[files]]
