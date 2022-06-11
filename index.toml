@@ -6,6 +6,11 @@ hash = "af1eb4731779edc72e1e1cb1664dd74328e0edb1da05805a0a694b10c48d010b"
 metafile = true
 
 [[files]]
+file = "mods/debugify.pw.toml"
+hash = "2e6483d2faf2f9cd4e618d192f0d1516a33a306f76fe3cd1311f691e4138f9c6"
+metafile = true
+
+[[files]]
 file = "mods/ebe.pw.toml"
 hash = "50780c17b5bb008c6786a9ab8e4405fba1908a8276a1d7d03dff90f8f7408d78"
 metafile = true
@@ -38,6 +43,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "f264c166b22cf93af5e44a3d65931e2a46008d11ee0cd81f209a3af54979a760"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "a9b4b216f354c79e9d2e08e4c792dcc9cfd34233a6b018fda90763f054b8a687"
 metafile = true
 
 [[files]]
