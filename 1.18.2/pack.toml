@@ -1,0 +1,16 @@
+name = "Fabric Modpack 1.18.2"
+author = "Laen111"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "6171ddaf3663d32e500e65588ca1e8a1dde029b5c516dc7b6343fb05dd44ed5f"
+
+[versions]
+fabric = "0.14.7"
+minecraft = "1.18.2"
+
+[options]
+acceptable-game-versions = ["1.18.2"]
