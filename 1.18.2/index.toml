@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "313884cc56d40482c76c7ad93b09e0b18e7abd8da431285d0bb10aad976f198e"
-
-[[files]]
 file = "mods/advancementinfo.pw.toml"
 hash = "46de5114d8a0017b14c0f6b63401fc7a1cb69b0dce336d36e25e80e91b51319b"
 metafile = true

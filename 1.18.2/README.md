@@ -6,7 +6,6 @@ The mods I've included to optimize and approximate vanilla:
 
 * None
 
-
 ## Working
 
 * AdvancementInfo
