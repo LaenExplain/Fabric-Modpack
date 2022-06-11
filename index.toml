@@ -1,6 +1,21 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "af1eb4731779edc72e1e1cb1664dd74328e0edb1da05805a0a694b10c48d010b"
+metafile = true
+
+[[files]]
+file = "mods/ebe.pw.toml"
+hash = "50780c17b5bb008c6786a9ab8e4405fba1908a8276a1d7d03dff90f8f7408d78"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "5f7e8ec1787dc7e2c8556596c2ba53c0dae9828bf1a2d9c6a1f8b8f9ba41dfb7"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "1d87f8c04eeed21a9544cfad7f64afee6de58b5249a70b0367ba8522273a4816"
 metafile = true
@@ -11,8 +26,28 @@ hash = "a2bb983e5dffe95d1f92ee19a099ed214f9b3d39c4e9f8eb5991a1a3c7735b45"
 metafile = true
 
 [[files]]
+file = "mods/ksyxis.pw.toml"
+hash = "2ea587bc28af997f2b93de69af32b8ba0120ce8a2c0e95624a0c55051eb25041"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.pw.toml"
+hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "f264c166b22cf93af5e44a3d65931e2a46008d11ee0cd81f209a3af54979a760"
+metafile = true
+
+[[files]]
+file = "mods/moreculling.pw.toml"
+hash = "fc3e78eb9cb93282c6f62291d6390c950c4eb2ace7e25b83382b5f4b43cd969b"
+metafile = true
+
+[[files]]
+file = "mods/smooth-boot.pw.toml"
+hash = "eb68f07474889d53f9b81902ad7aca2979604aa6d5102327574b687b1e1c1424"
 metafile = true
 
 [[files]]
