@@ -7,7 +7,7 @@ MODRINTH="${PACKWIZ} mr install"
 
 $MODRINTH advancementinfo
 $MODRINTH animatica
-$CURSE architectury-api
+yes | $CURSE architectury-api
 $CURSE better-fps-render-distance-fabric
 $MODRINTH better-mount-hud
 $MODRINTH betterf3
