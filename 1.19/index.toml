@@ -1,6 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/advancementinfo.pw.toml"
+hash = "4630f59c3ac70d37641704833a8cc94171eb02697969277159b749ea15e74c00"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "793eeb27095125bb3d0d3150377941f340219671eb9852e7ee15075ffe74962f"
+metafile = true
+
+[[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "757207131774e618e46c6c0ad407c8ba7c45d3c9c4fb59ffa8209d1bfe04a0d8"
 metafile = true
@@ -28,6 +38,11 @@ metafile = true
 [[files]]
 file = "mods/cit-resewn.pw.toml"
 hash = "d2bb03cee21d84e8e72fccc06cc8afbd6760674a7b8629a3fcba98e24503008e"
+metafile = true
+
+[[files]]
+file = "mods/clickthrough.pw.toml"
+hash = "b46ae91063839b3aaa7a863f69586e00883a6c98b2959005eaff27a459aa5d82"
 metafile = true
 
 [[files]]
@@ -88,6 +103,11 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "86fd4c1bb6f13fa109dfd1aa1e9cb84ffe71408de8da790b21d9756972740ad1"
+metafile = true
+
+[[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "26894893b73719ef3dd79e4a8b11bf407f5bd7987679b41c1f01fd454e82dfc1"
 metafile = true
 
 [[files]]
@@ -158,6 +178,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "0d539d8bad8493d4196bf5f7bf216d692384f283849fa41a2e5a816a0147673e"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "b48a96a91849dec6ef853b6e3b7112be1860df95b3dc803842bef0bf2d725993"
 metafile = true
 
 [[files]]
