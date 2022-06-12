@@ -10,7 +10,6 @@ The mods I've included to optimize and approximate vanilla:
 * Enhanced Block Entities
 * Farsight [Fabric]
 * LambdaBetterGrass
-* Puzzle
 
 ## Working
 
@@ -44,6 +43,7 @@ The mods I've included to optimize and approximate vanilla:
 * No Fade
 * Not Enough Crashes
 * OptiGUI
+* Puzzle
 * Smooth Boot (Fabric)
 * Sodium
 * Starlight (Fabric)

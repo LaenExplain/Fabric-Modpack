@@ -146,6 +146,11 @@ hash = "6abb2071e06ebda2ee6ceee2a0a469e71d04934069dcd351ed13ccba8b1e4ef7"
 metafile = true
 
 [[files]]
+file = "mods/puzzle.pw.toml"
+hash = "441f1eb3363f15713e0b94c4a96008083ce32b69f2d9db7df7ce5a72815b5337"
+metafile = true
+
+[[files]]
 file = "mods/smooth-boot.pw.toml"
 hash = "eb68f07474889d53f9b81902ad7aca2979604aa6d5102327574b687b1e1c1424"
 metafile = true
