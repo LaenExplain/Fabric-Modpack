@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "ffc1f6d147394bfeb65b2fb9a78ca7d3365cbf5192c31af1312bc899190e4e34"
+hash = "0ada4f3b91ee6a4cd40c8e9bcb69a3d59c24ff3940762efca9253b269af1eb25"
 metafile = true
 
 [[files]]
@@ -167,7 +167,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzle.pw.toml"
-hash = "441f1eb3363f15713e0b94c4a96008083ce32b69f2d9db7df7ce5a72815b5337"
+hash = "288f0f24e775ad0b48a9524e3d60380b70917e0cbeffd596db5d0a65f3bf3c79"
 metafile = true
 
 [[files]]
@@ -197,5 +197,5 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "9269cc9d61c5a6617f66fd711b58abffdc01e2af37bceb6c4264f8405f6da237"
+hash = "eda1cc1a41819d633cc5161ea985aa3f4cbf8f7901496bbde160c885ea808628"
 metafile = true
