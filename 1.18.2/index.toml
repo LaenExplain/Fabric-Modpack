@@ -11,6 +11,11 @@ hash = "139cd6adb184c22de6662545eee84a3acb5d1da2a606d31da977b23bbb330b21"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "5271c64a6f26821bd623c7494c83aa01af86d3d90fc2c1023a23b21f0f711465"
+metafile = true
+
+[[files]]
 file = "mods/better-fps-render-distance-fabric.pw.toml"
 hash = "b5cbeacd81556bb35baae52bc7576c35ce88dbe23021a9e39c192592af67e92e"
 metafile = true
@@ -28,6 +33,11 @@ metafile = true
 [[files]]
 file = "mods/borderless-mining.pw.toml"
 hash = "bed51582473ebbd8dc843f53f255d01a52683fa1ecd710e59eabf6173a9bdc98"
+metafile = true
+
+[[files]]
+file = "mods/brb.pw.toml"
+hash = "d225c6ff1ddf6be8fed438d159d802a7b23e536b7caed920450b836134b723dc"
 metafile = true
 
 [[files]]
@@ -51,6 +61,11 @@ hash = "e05bd2aa1eb88048b3cbe0845772453fab4e1b49f8ec19f192935d782f65939e"
 metafile = true
 
 [[files]]
+file = "mods/clickthrough.pw.toml"
+hash = "1a22f8e7f1718b40216542f41669501144c80bf1c5bbec265177aeaa8e93495a"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "c7db587d0799043490a1cdc144bbcc7a3ddaaff13e2f5ebbb145b796c1ce7115"
 metafile = true
@@ -68,6 +83,11 @@ metafile = true
 [[files]]
 file = "mods/debugify.pw.toml"
 hash = "4595621a88c273e5d0ab70dae5866d323122f449c668a667640ee79fbc6063f2"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "fee9510106fa4a0ee89bb047630a1fd6f72019ecccbdb1790c77d241193eb8e7"
 metafile = true
 
 [[files]]
@@ -92,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "0298adb7762224c2e426d0b23ab1f26f04b170faabf165ec2c9d3c37efe2a03c"
+hash = "37ae2e14a808e8668d356a2f5f53bad58b7f226e6936693b25dc7d6370f539c7"
 metafile = true
 
 [[files]]
@@ -118,6 +138,11 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "735bb894e8fd0430de8fe331347ff24c5c64643bc65f2c040f7a82fb17e8b826"
+metafile = true
+
+[[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "d162092b7040429242c744d9e823f2b9386fa3fa8961d238bfbc7aaaf6bb499a"
 metafile = true
 
 [[files]]
@@ -181,8 +206,18 @@ hash = "c8b862e2056b86b56304b1712c3b09fc8ff1794fd968148a055540ff2432424f"
 metafile = true
 
 [[files]]
+file = "mods/pinglist.pw.toml"
+hash = "e17c18833aea515aef4f44aae82a7d05eca457059301fb7c010aca5daa9f1286"
+metafile = true
+
+[[files]]
 file = "mods/puzzle.pw.toml"
 hash = "8cc917a1ec48b6aa8074cfe16ba2bbd3b9c9fa9c4a4dde7214fe25d8a492ed3d"
+metafile = true
+
+[[files]]
+file = "mods/simple-discord-rpc.pw.toml"
+hash = "40833a9072d10d5c692e181e623dfd102d9a146068be4d7f584e7a89a77b7b42"
 metafile = true
 
 [[files]]
@@ -193,6 +228,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "d1480fd38a1ac53311baa2d57b92556834372f6ac04c355169441df9a59a161c"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "1fe9aa5d3d49e8a426236ba189b751a0421b8ea56eb890b9dc794f53aea915d4"
 metafile = true
 
 [[files]]
