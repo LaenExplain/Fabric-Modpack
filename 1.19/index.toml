@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/capes.pw.toml"
-hash = "e6b27f70eea3cce852fb34713da1548c93c57c4327a797375ee50d7a3d6221c5"
+hash = "76e805480f5d9c407dbc502f41517af86156d0c6504a1d7f2b8fc6294ae6de81"
 metafile = true
 
 [[files]]
@@ -82,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "1918aa326b46eb07df8cfcc173b089a55e0334336aa71ad3d211be90dfbe6616"
+hash = "68a7ae55f43cf6c9ddf2e3e091705538bfc5d20b7e24b38afaa4e221bbcd3979"
 metafile = true
 
 [[files]]
@@ -167,7 +167,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzle.pw.toml"
-hash = "288f0f24e775ad0b48a9524e3d60380b70917e0cbeffd596db5d0a65f3bf3c79"
+hash = "3617f55f5973b7dcaab7ae5098db9f3daf6d5e89123c0a58301333435dda6e03"
 metafile = true
 
 [[files]]
