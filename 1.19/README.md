@@ -6,14 +6,12 @@ The mods I've included to optimize and approximate vanilla:
 
 * Animatica
 * Better Fps - Render Distance[Fabric]
-* Borderless Mining
 * Better Recipe Book
 * Distant Horizons
 * Enhanced Block Entities
 * Farsight [Fabric]
 * LambdaBetterGrass
 * PingList
-* Simple Discord RPC [Forge/Fabric/Quilt]
 
 ## Working
 
@@ -21,6 +19,7 @@ The mods I've included to optimize and approximate vanilla:
 * Architectury API (Fabric/Forge)
 * Better Mount HUD
 * BetterF3
+* Borderless Mining
 * Concurrent Chunk Management Engine (Fabric)
 * Capes
 * Custom Entity Models
@@ -51,6 +50,7 @@ The mods I've included to optimize and approximate vanilla:
 * Not Enough Crashes
 * OptiGUI
 * Puzzle
+* Simple Discord RPC [Forge/Fabric/Quilt]
 * Smooth Boot (Fabric)
 * Sodium
 * Sound Physics Remastered

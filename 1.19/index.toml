@@ -21,6 +21,11 @@ hash = "90de023b54d15536a49e98bd4b79319940381bad60e8ca9798a4f5468b9b156f"
 metafile = true
 
 [[files]]
+file = "mods/borderless-mining.pw.toml"
+hash = "7895456be6f6f78bbcc6dc19d699f0f7d755c709f1d62809babeec21adf82308"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "af1eb4731779edc72e1e1cb1664dd74328e0edb1da05805a0a694b10c48d010b"
 metafile = true
@@ -168,6 +173,11 @@ metafile = true
 [[files]]
 file = "mods/puzzle.pw.toml"
 hash = "3617f55f5973b7dcaab7ae5098db9f3daf6d5e89123c0a58301333435dda6e03"
+metafile = true
+
+[[files]]
+file = "mods/simple-discord-rpc.pw.toml"
+hash = "ce35c771c56cb887819ac75b6f6df59d13a3477422cf7009d22cc637f8dba91f"
 metafile = true
 
 [[files]]
