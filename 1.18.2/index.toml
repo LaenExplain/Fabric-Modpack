@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "5271c64a6f26821bd623c7494c83aa01af86d3d90fc2c1023a23b21f0f711465"
+hash = "526cdf2d31fb8d66b3e6928481bccce7600b073c6f1ea8207c64f6e2e03a9247"
 metafile = true
 
 [[files]]
@@ -107,12 +107,12 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "e10e6be82eb1997273936a54e1a3bc5d6068af59f484288fe8fb85974270827c"
+hash = "38e61908cbf4b927b12221f42ee83102da8b59548dfba3b65201a0e221812cb0"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "37ae2e14a808e8668d356a2f5f53bad58b7f226e6936693b25dc7d6370f539c7"
+hash = "805f051bc280baebb1abaf8f4ac2416293809e43fdd39af59acd0788364a3ecc"
 metafile = true
 
 [[files]]
@@ -162,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdabettergrass.pw.toml"
-hash = "01f79a7fb966690009a42f285e779bac8f7958df56240494e4d3d7d862332c2d"
+hash = "080d4789738ae0015c0a1fc76ffc3f6487f55dc5877b3de1c3b458b544efe362"
 metafile = true
 
 [[files]]
