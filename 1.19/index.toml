@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "793eeb27095125bb3d0d3150377941f340219671eb9852e7ee15075ffe74962f"
+hash = "339263b88e70320e077fd2538555de455503f7dcb609868a53702fd6528b2ffe"
 metafile = true
 
 [[files]]
@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/borderless-mining.pw.toml"
-hash = "7895456be6f6f78bbcc6dc19d699f0f7d755c709f1d62809babeec21adf82308"
+hash = "c3d82e10126c56b018d25f664e9107a583091b82548c4f04a14c3b1b4db0f507"
 metafile = true
 
 [[files]]
@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/capes.pw.toml"
-hash = "76e805480f5d9c407dbc502f41517af86156d0c6504a1d7f2b8fc6294ae6de81"
+hash = "11500c6d3b6944ed92bc249160dc88cfe7f4dc518190c27ba83bcdf4c130dcdf"
 metafile = true
 
 [[files]]
@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "2e6483d2faf2f9cd4e618d192f0d1516a33a306f76fe3cd1311f691e4138f9c6"
+hash = "d562db5edffe81d5698a1c8ee6a42c4d014865dad4daf19fd4331b99018a2537"
 metafile = true
 
 [[files]]
@@ -82,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "18dd92e3352ea0fdcfe1a116ffe661ec1a2de1ffe58678260e125d04cbfdfaf6"
+hash = "7c8734c1b20623d0deaab723a2c872c3b166fe466b43caa43fc7118dfd40d843"
 metafile = true
 
 [[files]]
@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "86fd4c1bb6f13fa109dfd1aa1e9cb84ffe71408de8da790b21d9756972740ad1"
+hash = "bbbf79e3bc952411d58fb20119792dda0096b42784ff9398c5febd2a137153c4"
 metafile = true
 
 [[files]]
