@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "339263b88e70320e077fd2538555de455503f7dcb609868a53702fd6528b2ffe"
+hash = "4deebf85ea442c1c37ee0dcdfea8b5be9105102ae88fc7dec0cff0752da1c1c7"
 metafile = true
 
 [[files]]
@@ -27,12 +27,12 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "af1eb4731779edc72e1e1cb1664dd74328e0edb1da05805a0a694b10c48d010b"
+hash = "2b9d778f845e30e9111c5b02f8fc68c797ad39e2a79c7e9d88ab54fa133b100b"
 metafile = true
 
 [[files]]
 file = "mods/capes.pw.toml"
-hash = "11500c6d3b6944ed92bc249160dc88cfe7f4dc518190c27ba83bcdf4c130dcdf"
+hash = "3b2c1ac53b3aed8e5d0a20ed50a663e8c24948216ab93acd4135c69b3c2fa1e1"
 metafile = true
 
 [[files]]
@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "d562db5edffe81d5698a1c8ee6a42c4d014865dad4daf19fd4331b99018a2537"
+hash = "004dbebb72fb7b4afaa12797a18c0871b78da1cc930ee0a9e65a485a99d6232b"
 metafile = true
 
 [[files]]
@@ -82,17 +82,17 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "7c8734c1b20623d0deaab723a2c872c3b166fe466b43caa43fc7118dfd40d843"
+hash = "d476772028d7d681aadd6a06fb8484cbf8476389267f6fd53293a17af3460bce"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "68a7ae55f43cf6c9ddf2e3e091705538bfc5d20b7e24b38afaa4e221bbcd3979"
+hash = "e7cec26ae28ac003a313d63fcb722b3c52c4ca10eae61e0ba7686ef4ae1410f5"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "9ae76046167e451e37eb846a72b8ff2b04b997767b717b37f4c8c586f08a5ef6"
+hash = "c57ab7e92b672af93416304950b083d0b20aabe41af61d0993292dfef80744bf"
 metafile = true
 
 [[files]]
@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "bbbf79e3bc952411d58fb20119792dda0096b42784ff9398c5febd2a137153c4"
+hash = "b5ecdce430ae016b791f415ef55f6740dcfd422cdb24c2ea78e4ec677cc7921e"
 metafile = true
 
 [[files]]
@@ -197,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/starlight.pw.toml"
-hash = "0212996355de904aa968661624fd9230d1b31d85b201b9ab01bb9e94ac0fe73c"
+hash = "be68ef606c339bbb22f2b812db1e5264d9e3335befc0c348d4dc91a8a3e72e17"
 metafile = true
 
 [[files]]
@@ -207,5 +207,5 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "eda1cc1a41819d633cc5161ea985aa3f4cbf8f7901496bbde160c885ea808628"
+hash = "c6c963c8c9389d864664aabfd259e9b3909c274b56b2ff1477dac551216b3a28"
 metafile = true
