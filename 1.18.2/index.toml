@@ -7,12 +7,12 @@ metafile = true
 
 [[files]]
 file = "mods/animatica.pw.toml"
-hash = "139cd6adb184c22de6662545eee84a3acb5d1da2a606d31da977b23bbb330b21"
+hash = "0e0112e01df097b7f015ac0ad6a98e173c8e98a27719237ef21be06f8ad09fad"
 metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "526cdf2d31fb8d66b3e6928481bccce7600b073c6f1ea8207c64f6e2e03a9247"
+hash = "e92fb1a0365cf2c571a679c85f8ae2db4c972e050a8cc619b21751f925bb9b2c"
 metafile = true
 
 [[files]]
@@ -97,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/ebe.pw.toml"
-hash = "50780c17b5bb008c6786a9ab8e4405fba1908a8276a1d7d03dff90f8f7408d78"
+hash = "686e7208edaa2689b41630cc78ea777911f07ef98a8fe33ddafecf8b5b61a8ed"
 metafile = true
 
 [[files]]
@@ -107,17 +107,17 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "38e61908cbf4b927b12221f42ee83102da8b59548dfba3b65201a0e221812cb0"
+hash = "c85522a1552b7e5b71a71c184d398eb723e5ae00515a020b84cb9c402c66be58"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "805f051bc280baebb1abaf8f4ac2416293809e43fdd39af59acd0788364a3ecc"
+hash = "6d4dab3cfce1a435d400d6f1c5ff0050f0208a9812b666cdcbdf14e979ed3c90"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "9ae76046167e451e37eb846a72b8ff2b04b997767b717b37f4c8c586f08a5ef6"
+hash = "c57ab7e92b672af93416304950b083d0b20aabe41af61d0993292dfef80744bf"
 metafile = true
 
 [[files]]
@@ -137,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "735bb894e8fd0430de8fe331347ff24c5c64643bc65f2c040f7a82fb17e8b826"
+hash = "b8e50e473a9a5f9d41dba92a20e6af19156a23d3f70cc87c4fe164ea83e0e238"
 metafile = true
 
 [[files]]
@@ -187,7 +187,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "8f501b0b0f968e3b4819219c5fd5c656500bb0a2736cafff092ce7279fe85574"
+hash = "37b69a71c010cb7e4d10a84a7c0e44373566ddb19aaaf4428ff2bb9ade0692e1"
 metafile = true
 
 [[files]]
