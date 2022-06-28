@@ -4,22 +4,19 @@ The mods I've included to optimize and approximate vanilla:
 
 ## Not Working
 
-* Animatica
-* Better Fps - Render Distance[Fabric]
-* Better Recipe Book
 * Distant Horizons
-* Enhanced Block Entities
-* Farsight [Fabric]
-* LambdaBetterGrass
 * PingList
 
 ## Working
 
 * AdvancementInfo
+* Animatica
 * Architectury API (Fabric/Forge)
+* Better Fps - Render Distance[Fabric]
 * Better Mount HUD
 * BetterF3
 * Borderless Mining
+* Better Recipe Book
 * Concurrent Chunk Management Engine (Fabric)
 * Capes
 * Custom Entity Models
@@ -30,17 +27,20 @@ The mods I've included to optimize and approximate vanilla:
 * Cull Less Leaves
 * Debugify
 * Dynamic FPS
+* Enhanced Block Entities
 * EntityCulling
 * Entity Texture Features [Fabric]
 * Fabric API
 * Fabric Language Kotlin
 * Fabrishot
+* Farsight [Fabric]
 * FerriteCore
 * Indium
 * Inventory Profiles Next
 * Iris Shaders
 * Krypton
 * Ksyxis
+* LambdaBetterGrass
 * LambDynamicLights
 * LazyDFU
 * Lithium
