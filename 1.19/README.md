@@ -4,7 +4,6 @@ The mods I've included to optimize and approximate vanilla:
 
 ## Not Working
 
-* Distant Horizons
 * PingList
 
 ## Working
@@ -26,6 +25,7 @@ The mods I've included to optimize and approximate vanilla:
 * Continuity
 * Cull Less Leaves
 * Debugify
+* Distant Horizons
 * Dynamic FPS
 * Enhanced Block Entities
 * EntityCulling
