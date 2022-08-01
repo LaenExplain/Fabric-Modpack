@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "e92fb1a0365cf2c571a679c85f8ae2db4c972e050a8cc619b21751f925bb9b2c"
+hash = "69250e9cd7c3c252dc5739154ed99a0bd31641950b2a330caa5a55d5588677a8"
 metafile = true
 
 [[files]]
@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/cit-resewn.pw.toml"
-hash = "e05bd2aa1eb88048b3cbe0845772453fab4e1b49f8ec19f192935d782f65939e"
+hash = "8a3b58552083779e461ff3ac406f81bb1b7057974f161cba2a090a5b2f73a205"
 metafile = true
 
 [[files]]
@@ -87,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "fee9510106fa4a0ee89bb047630a1fd6f72019ecccbdb1790c77d241193eb8e7"
+hash = "96963fe0e7f130593ec33f6de15b14a6a2794fab9cff4a166c412d7808bee501"
 metafile = true
 
 [[files]]
@@ -112,12 +112,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "6d4dab3cfce1a435d400d6f1c5ff0050f0208a9812b666cdcbdf14e979ed3c90"
+hash = "d95379da217fbae889dc9b9e66a55d484ee63a28da2ffc9d79bd020cc4e2cc8d"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "c57ab7e92b672af93416304950b083d0b20aabe41af61d0993292dfef80744bf"
+hash = "8e91eac9da646c5458d00fb68ccf0887bf815947ef549cb19abebe1e6cec5c72"
 metafile = true
 
 [[files]]
@@ -142,12 +142,12 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "d162092b7040429242c744d9e823f2b9386fa3fa8961d238bfbc7aaaf6bb499a"
+hash = "277253078831fc78a710a827b49a325edfdd3e699b2f50e0091ff1ecba231933"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "955af3c751bf51e8a5ae1f396a48da1fa3a85be5698714599c05a8c5007de8de"
+hash = "2d3c10d8c134ca9e5a24b0aff53bdf17e8702b8b8b5b997a0b8a542e0361587d"
 metafile = true
 
 [[files]]
@@ -182,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "5977b263e2694941ddc2e5279259089215fb72ea53ca1491a0e101c97896311a"
+hash = "c245e4e6896f1702f29aaf0bfef3cbce1d82b4f0fb8d44a526690f4d965f75e0"
 metafile = true
 
 [[files]]
@@ -212,12 +212,12 @@ metafile = true
 
 [[files]]
 file = "mods/puzzle.pw.toml"
-hash = "8cc917a1ec48b6aa8074cfe16ba2bbd3b9c9fa9c4a4dde7214fe25d8a492ed3d"
+hash = "761170eaeece33f423619aefe9de989bac69c68deb29f7df8653eecabcb303e2"
 metafile = true
 
 [[files]]
 file = "mods/simple-discord-rpc.pw.toml"
-hash = "40833a9072d10d5c692e181e623dfd102d9a146068be4d7f584e7a89a77b7b42"
+hash = "01292cc6fd95f9e10138e98f33646ed235c18a0c1f542b5839928a7390a29835"
 metafile = true
 
 [[files]]
