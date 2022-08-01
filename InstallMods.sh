@@ -43,6 +43,7 @@ $MODRINTH lazydfu
 $MODRINTH lithium
 $MODRINTH memoryleakfix
 $MODRINTH modmenu
+$MODRINTH no-chat-reports
 $MODRINTH no-fade
 $MODRINTH notenoughcrashes
 $MODRINTH optigui
