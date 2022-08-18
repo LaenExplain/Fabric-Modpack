@@ -16,6 +16,7 @@ $MODRINTH brb
 $MODRINTH c2me-fabric
 $MODRINTH capes
 $MODRINTH cem
+$CURSE chat-up
 $MODRINTH cit-resewn
 $MODRINTH clickthrough
 $MODRINTH cloth-config
@@ -34,6 +35,7 @@ $CURSE farsight-fabric
 $MODRINTH ferrite-core
 $MODRINTH indium
 $MODRINTH inventory-profiles-next
+$MODRINTH inventory-tabs-updated
 $MODRINTH iris
 $MODRINTH krypton
 $MODRINTH ksyxis
@@ -42,6 +44,7 @@ $MODRINTH lambdynamiclights
 $MODRINTH lazydfu
 $MODRINTH lithium
 $MODRINTH memoryleakfix
+yes | $CURSE minihud
 $MODRINTH modmenu
 $MODRINTH no-chat-reports
 $MODRINTH no-fade
@@ -49,6 +52,8 @@ $MODRINTH notenoughcrashes
 $MODRINTH optigui
 $MODRINTH pinglist
 $MODRINTH puzzle
+$MODRINTH reeses-sodium-options
+$MODRINTH shulkerboxtooltip
 $MODRINTH simple-discord-rpc
 $CURSE smooth-boot
 $MODRINTH sodium
