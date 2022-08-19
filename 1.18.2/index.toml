@@ -26,6 +26,11 @@ hash = "757207131774e618e46c6c0ad407c8ba7c45d3c9c4fb59ffa8209d1bfe04a0d8"
 metafile = true
 
 [[files]]
+file = "mods/better-ping-display-fabric.pw.toml"
+hash = "be2eb8aaf41cc18a31ccd3401c07547f189ce72ce6a30484b6ac16142c7b3653"
+metafile = true
+
+[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "628c921ed428851da53ed2b47cabab1d83bc7cdfa773de9f860445a03f878ee8"
 metafile = true
@@ -223,11 +228,6 @@ metafile = true
 [[files]]
 file = "mods/optigui.pw.toml"
 hash = "c8b862e2056b86b56304b1712c3b09fc8ff1794fd968148a055540ff2432424f"
-metafile = true
-
-[[files]]
-file = "mods/pinglist.pw.toml"
-hash = "e17c18833aea515aef4f44aae82a7d05eca457059301fb7c010aca5daa9f1286"
 metafile = true
 
 [[files]]
