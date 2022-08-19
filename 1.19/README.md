@@ -4,7 +4,7 @@ The mods I've included to optimize and approximate vanilla:
 
 ## Not Working
 
-* PingList
+* None
 
 ## Working
 
@@ -13,6 +13,7 @@ The mods I've included to optimize and approximate vanilla:
 * Architectury API (Fabric/Forge)
 * Better Fps - Render Distance[Fabric]
 * Better Mount HUD
+* Better Ping Display [Fabric]
 * BetterF3
 * Borderless Mining
 * Better Recipe Book
