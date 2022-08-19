@@ -56,6 +56,11 @@ hash = "753859b58aa7a674785b3ec5a8080c2142209a50185cc3dd5ab90c7c6a38f5ee"
 metafile = true
 
 [[files]]
+file = "mods/chat-up.pw.toml"
+hash = "f2d6d0bf07893bd248bce474400e63f83d0a6c151733bf1fdb59fe8f003c25da"
+metafile = true
+
+[[files]]
 file = "mods/cit-resewn.pw.toml"
 hash = "c47b4e6dea49ed224870b70e2101f7dfea59c63490cca1d5f5a1dd43b18c56ef"
 metafile = true
@@ -146,6 +151,11 @@ hash = "3f196a5ba67e18f52901014dd413376944faf11cbf2f35722a08ac6195dd363d"
 metafile = true
 
 [[files]]
+file = "mods/inventory-tabs-updated.pw.toml"
+hash = "a8ec5fd59ff7ddab287b339ca91c49af53ecea28105d764a1b560c4fbdfaf7d6"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "a348ec1aec5a10f7235d6741e08aea583e042049eded3d6eafd97a0688a891c0"
 metafile = true
@@ -181,8 +191,18 @@ hash = "443104f3ae619456aefa8eaabf9dbfba4c0a227435fc7c6e2f4c89370bb6786d"
 metafile = true
 
 [[files]]
+file = "mods/malilib.pw.toml"
+hash = "9d9b3772d9e12b474675846005279f4b3957711744a550ab14284ed4187fc270"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "8fca044c06687f1e0f645ea179fa96a73abe84c7e4e4c982633868c150553732"
+metafile = true
+
+[[files]]
+file = "mods/minihud.pw.toml"
+hash = "4dd0a7589833be6441edea5369f06fe7f8a01d758b685a7792f99b5cf4175888"
 metafile = true
 
 [[files]]
@@ -213,6 +233,16 @@ metafile = true
 [[files]]
 file = "mods/puzzle.pw.toml"
 hash = "48aefe7fedf925380793a244646e6449cf3f5aebeeb651b09ab86d6638e8b0c1"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "ae4b4112db3f14bcb9e8dc10ea06e83d84bff4d9ad2a3dfd74533c1256b98218"
+metafile = true
+
+[[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "70342a8f82c23bc364d846277b72f8d859ecdad794ce00fbbbf6240fa0ddc898"
 metafile = true
 
 [[files]]
