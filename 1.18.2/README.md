@@ -19,6 +19,7 @@ The mods I've included to optimize and approximate vanilla:
 * Concurrent Chunk Management Engine (Fabric)
 * Capes
 * Custom Entity Models
+* Chat Up! (Manually added 1.17 version)
 * CIT Resewn
 * ClickThrough
 * Cloth Config API
@@ -37,6 +38,7 @@ The mods I've included to optimize and approximate vanilla:
 * FerriteCore
 * Indium
 * Inventory Profiles Next
+* Inventory Tabs (updated)
 * Iris Shaders
 * Krypton
 * Ksyxis
@@ -44,13 +46,17 @@ The mods I've included to optimize and approximate vanilla:
 * LambDynamicLights
 * LazyDFU
 * Lithium
+* MaLiLib
 * Memory Leak Fix
+* MiniHUD
 * Mod Menu
 * No Fade
 * Not Enough Crashes
 * OptiGUI
 * PingList
 * Puzzle
+* Reese's Sodium Options
+* ShulkerBoxTooltip [Fabric/Forge]
 * Simple Discord RPC [Forge/Fabric/Quilt]
 * Smooth Boot (Fabric)
 * Sodium
