@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-up.pw.toml"
-hash = "f2d6d0bf07893bd248bce474400e63f83d0a6c151733bf1fdb59fe8f003c25da"
+hash = "dd3dc0f8b4eea8f91ea36f52605535ed4abe7a6466485782f516b133e871dc97"
 metafile = true
 
 [[files]]

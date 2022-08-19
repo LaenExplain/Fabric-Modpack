@@ -19,7 +19,7 @@ The mods I've included to optimize and approximate vanilla:
 * Concurrent Chunk Management Engine (Fabric)
 * Capes
 * Custom Entity Models
-* Chat Up! (Manually added 1.19.2 version)
+* Chat Up! (Manually added 1.17 version)
 * CIT Resewn
 * ClickThrough
 * Cloth Config API
