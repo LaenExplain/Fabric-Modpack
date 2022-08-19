@@ -10,6 +10,7 @@ $MODRINTH animatica
 yes | $CURSE architectury-api
 $CURSE better-fps-render-distance-fabric
 $MODRINTH better-mount-hud
+$CURSE better-ping-display-fabric
 $MODRINTH betterf3
 $MODRINTH borderless-mining
 $MODRINTH brb
@@ -50,7 +51,6 @@ $MODRINTH no-chat-reports
 $MODRINTH no-fade
 $MODRINTH notenoughcrashes
 $MODRINTH optigui
-$MODRINTH pinglist
 $MODRINTH puzzle
 $MODRINTH reeses-sodium-options
 $MODRINTH shulkerboxtooltip

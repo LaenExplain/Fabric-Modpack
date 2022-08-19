@@ -7,6 +7,7 @@ The mods I've included to optimize and approximate and enhance vanilla:
 * Architectury API (Fabric/Forge)
 * Better Fps - Render Distance[Fabric]
 * Better Mount HUD
+* Better Ping Display [Fabric]
 * BetterF3
 * Borderless Mining
 * Better Recipe Book
@@ -48,7 +49,6 @@ The mods I've included to optimize and approximate and enhance vanilla:
 * No Fade
 * Not Enough Crashes
 * OptiGUI
-* PingList
 * Puzzle
 * Reese's Sodium Options
 * ShulkerBoxTooltip [Fabric/Forge]
