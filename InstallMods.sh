@@ -35,7 +35,7 @@ $MODRINTH fabrishot
 $CURSE farsight-fabric
 $MODRINTH ferrite-core
 $MODRINTH indium
-$MODRINTH inventory-profiles-next
+yes n | $CURSE inventory-profiles-next
 $MODRINTH inventory-tabs-updated
 $MODRINTH iris
 $MODRINTH krypton
