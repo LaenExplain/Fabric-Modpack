@@ -1,12 +1,12 @@
 name = "Fabric Modpack 1.19"
 author = "Laen111"
-version = "1.7.2"
+version = "1.7.3"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "8ac30864b10c8285a976fd61468d2fb4ca0674d64fd5847d85881c2879e84281"
+hash = "727ef074d666d16a5d537a23742ce5827c69f1b5b4aca952d59dafd9cbdbf74b"
 
 [versions]
 fabric = "0.14.9"
