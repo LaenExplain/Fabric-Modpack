@@ -58,4 +58,5 @@ The mods I've included to optimize and approximate and enhance vanilla:
 * Sound Physics Remastered
 * Starlight (Fabric)
 * ToolTipFix
+* YetAnotherConfigLib
 * Zoomify

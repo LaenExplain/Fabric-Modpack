@@ -60,4 +60,5 @@ $MODRINTH sodium
 $CURSE sound-physics-remastered
 $MODRINTH starlight
 $CURSE tooltipfix
+$MODRINTH yacl
 $MODRINTH zoomify
