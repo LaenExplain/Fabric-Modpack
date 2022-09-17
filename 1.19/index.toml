@@ -281,6 +281,11 @@ hash = "5520c1dc76ba02ac7ab0648ca5facc2e5e65e6f98b5bc1c9b95d6f8be8280238"
 metafile = true
 
 [[files]]
+file = "mods/yacl.pw.toml"
+hash = "a27662c660bf586fae79e9f5c27eb9aa98e1bd86e9761e22ccc04d47f6d38377"
+metafile = true
+
+[[files]]
 file = "mods/zoomify.pw.toml"
 hash = "74fb9e8174adc537ac89947dc970bfff81e0c048a0e23c2250195afb7ad4154e"
 metafile = true
