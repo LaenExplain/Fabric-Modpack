@@ -4,7 +4,8 @@ The mods I've included to optimize and approximate vanilla:
 
 ## Not Working
 
-* None
+* No Chat Reports
+* YetAnotherConfigLib
 
 ## Working
 
